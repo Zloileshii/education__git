@@ -2,4 +2,4 @@
 
 echo 'First initial';
 
-// index
+// indeщ
